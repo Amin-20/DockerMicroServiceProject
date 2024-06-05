@@ -1,4 +1,3 @@
-
 namespace MicroServiceB
 {
     public class Program
